@@ -161,7 +161,10 @@ data:
       4005209166089 #DarkSiders2 CE
       3700577002717 #Splatterhouse
       5055277025923 #Persona4ArenaUltimax
-
+      5030930102975 #ShadowsoftheDamned
+      5055060925904 #Darkvoid
+      5037930110030 #StrangleHold
+      5037930072369 #MKShaolinMonks
 ---
 apiVersion: v1
 kind: ConfigMap
