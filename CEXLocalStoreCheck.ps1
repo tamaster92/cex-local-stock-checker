@@ -131,3 +131,4 @@ Write-Host "----------------------In Stock Summary---------------------" -Foregr
             Clear-Content $NotificationSentCheck 
         }
     }
+exit $LASTEXITCODE
