@@ -9,11 +9,13 @@ on:
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
-
-# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+  
+permissions:
+  contents: write
+  
 jobs:
   # This workflow contains a single job called "build"
-  build:
+  Check:
     # The type of runner that the job will run on
     runs-on: windows-latest
 
@@ -21,16 +23,13 @@ jobs:
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v4
-
-      # Runs a single command using the runners shell
       - name: Check Stores
         shell: pwsh
         run: |
           . '.\CEXLocalStoreCheck.ps1' -ItemsToCheckFilePath .\items-to-check.txt -Latitude "54.974758" -Longitude "-1.620000" -StoresToCheckFilePath .\stores-to-check.txt -PushoverToken ${{ secrets.PUSHOVER_TOKEN }} -PushoverUser ${{ secrets.PUSHOVER_USER }} 
-      
-      - name: Commit and push changes
-        uses: devops-infra/action-commit-push@master
-        with:
-          github_token: ${{ secrets.TOKEN }}
-          commit_message: Updated wanted-games-stock.txt file
-          force: true
+      - name: Commit stock change
+        run: |
+          git config --global user.name 'liquidtoon01'
+          git config --global user.email 'liquidtoon01@users.noreply.github.com'
+          git commit -am "Automated update"
+          git push
