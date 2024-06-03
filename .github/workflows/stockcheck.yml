@@ -27,3 +27,10 @@ jobs:
         shell: pwsh
         run: |
           . '.\CEXLocalStoreCheck.ps1' -ItemsToCheckFilePath .\items-to-check.txt -Latitude "54.974758" -Longitude "-1.620000" -StoresToCheckFilePath .\stores-to-check.txt -PushoverToken ${{ secrets.PUSHOVER_TOKEN }} -PushoverUser ${{ secrets.PUSHOVER_USER }} 
+      
+      - name: Commit and push changes
+        uses: devops-infra/action-commit-push@master
+        with:
+          github_token: ${{ secrets.TOKEN }}
+          commit_message: Updated wanted-games-stock.txt file
+          force: true
