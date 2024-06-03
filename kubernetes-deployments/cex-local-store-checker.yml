@@ -208,7 +208,7 @@ spec:
             command:
             - /bin/sh
             - -c
-            - "pwsh -ExecutionPolicy Unrestricted -NonInteractive -Command '/config/cexlocalstorecheck.ps1' -ItemsToCheckFilePath '/config/cexitemstocheck.txt' -Latitude '54.953800' -Longitude '-1.455030' -StoresToCheckFilePath '/config/cexstorestocheck.txt' -PushoverToken 'ar7tq7fnrka1i1shvji2ej6qi2btoz' -PushoverUser 'uzdp3zaqsg5uxfz1ua5gviyyq4j2so'"
+            - "pwsh -ExecutionPolicy Unrestricted -NonInteractive -Command '/config/cexlocalstorecheck.ps1' -ItemsToCheckFilePath '/config/cexitemstocheck.txt' -Latitude '54.953800' -Longitude '-1.455030' -StoresToCheckFilePath '/config/cexstorestocheck.txt' -PushoverToken ${{ secrets.PUSHOVER_TOKEN }} -PushoverUser ${{ secrets.PUSHOVER_USER }}"
             volumeMounts:
               - mountPath: "/cex"
                 name: cex
