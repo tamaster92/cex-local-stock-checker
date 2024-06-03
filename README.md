@@ -2,15 +2,22 @@
 PowerShell script to check specific stores for specific stock and can send a notification to your device using Pushover
 https://pushover.net/
 
-![Screenshot of notifications](image-4.png)
+[What is Pushover and how do I use it?](https://support.pushover.net/i7-what-is-pushover-and-how-do-i-use-it)
+
+![Screenshot of notifications](repo-images/image-4.png)
 
 And to get a summary of what is in stock and where locally
 
-![summary of what is currently in stock](image-2.png)
+![summary of what is currently in stock](repo-images/image-2.png)
 
 This script uses three .txt files as a "database" for reviewing what items you want reviewed, what stores to check and when to notify as stock is available or removed. There is an optional fourth file to sending summary notifications of all your wanted items that are in stock.
 
-It is advised to use this script on a schedule to be automatically alerted when stock is changed for your chosen item. Windows Task Scheduler is a perfect example of this. An WTS XML file has been provided as an example in this repo.
+## Example setups
+It is advised to use this script on a schedule to be automatically alerted when stock is changed for your chosen item. Three examples are provided in this repo;
+
+- [Kubernetes CronJob](kubernetes-deployments/cex-local-store-checker.yml)
+- [Windows Task Scheduler](windows-task-scheduler-example/CEXLocalStoreCheck.xml)
+- [Github Action](.github/workflows/stockcheck.yml)
 
 The Powershell script has seven parameters;
 
@@ -29,7 +36,7 @@ The Powershell script has seven parameters;
 ## ItemsToCheckFilePath
 You need to input the ID's of the items you want to check. This is found in the URL of the item
 
-![example of where to get the ID of the product](image.png) 
+![example of where to get the ID of the product](repo-images/image.png) 
 
 an example file is provided in this repo.
 
@@ -39,7 +46,7 @@ You can get these using https://www.latlong.net/. This is your address.
 ## StoresToCheckFilePath
 You need to input the store names as they are from the CEX database. These can be found using the search function on the site.
 
-![screenshot of the store names on the CEX site](image-1.png)
+![screenshot of the store names on the CEX site](repo-images/image-1.png)
 
 An example file has been provided in this repo.
 
