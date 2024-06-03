@@ -24,7 +24,6 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: Run a one-line script
-        if: always()
         shell: pwsh
         run: |
           . '.\CEXLocalStoreCheck.ps1' -ItemsToCheckFilePath .\items-to-check.txt -Latitude "54.974758" -Longitude "-1.620000" -StoresToCheckFilePath .\stores-to-check.txt -PushoverToken ${{ secrets.PUSHOVER_TOKEN }} -PushoverUser ${{ secrets.PUSHOVER_USER }} 
