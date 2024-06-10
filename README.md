@@ -1,4 +1,4 @@
-# cex-local-stock-checker
+# CEX Local Stock Checker
 PowerShell script to check specific stores for specific stock and can send a notification to your device using Pushover
 https://pushover.net/
 
