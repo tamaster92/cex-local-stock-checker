@@ -23,3 +23,4 @@ sps1g627ab, Arnison Durham
 3307210266620, Washington
 3307210266620, Newcastle Grainger St
 sps1g627ab, Sunderland
+3307210266620, South Shields
