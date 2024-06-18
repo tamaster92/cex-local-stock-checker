@@ -14,7 +14,6 @@ sps1g627ab, Arnison Durham
 5030917023002, North Shields
 5030917023002, Washington
 5030917023002, Newcastle Upon Tyne
-5030917023002, Newcastle Grainger St
 5030917016196, Gateshead Trinity Square
 5030917016196, Gateshead Metro Centre
 3307210266620, Cramlington
