@@ -25,3 +25,4 @@ sps1g627ab, Sunderland
 3348542208841, Durham
 3348542208841, Arnison Durham
 5051892020831, Arnison Durham
+sps1g627ab, Gateshead Trinity Square
