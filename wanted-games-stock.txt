@@ -27,3 +27,5 @@ sps1g627ab, Sunderland
 5051892020831, Arnison Durham
 sps1g627ab, Gateshead Trinity Square
 5037930110030, Newcastle Upon Tyne
+5030917023002, Durham
+5030917016196, Durham
