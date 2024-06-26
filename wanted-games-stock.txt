@@ -5,7 +5,6 @@
 4974365615697b, Durham
 sps1g1627b, Washington
 4974365610616b, Arnison Durham
-sps1g627ab, Gateshead Metro Centre
 sps1g627ab, Arnison Durham
 023272010683, Arnison Durham
 5037930072369, Arnison Durham
