@@ -3,7 +3,6 @@ sps1g349ab #Resident Evil Directors Cut w/ man
 3391891965149 #TekkenTagTourn CE
 5026555408097 #Max Payne CE
 4974365610425B #Ecco (for boxes)
-sps1g627ab #Tomb Raider w/ man
 5055060927427 #AsurasWrath
 023272010683 #MonkeyIsland
 4005209166089 #DarkSiders2 CE
@@ -11,11 +10,7 @@ sps1g627ab #Tomb Raider w/ man
 5055277025923 #Persona4ArenaUltimax
 5030930102975 #ShadowsoftheDamned
 5055060925904 #Darkvoid
-5037930110030 #StrangleHold
-5037930072369 #MKShaolinMonks
 5030917047855 #Spider-ManFriendorFoe
 5030917016196 #Spider-Man
 5055060920589 #AutoModelista
-3348542208841 #Fear
 5051600222885 #Fear2
-5051892020831 #Fear3
