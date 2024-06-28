@@ -21,7 +21,6 @@ sps1g627ab, Sunderland
 3307210266620, South Shields
 3348542208841, Durham
 sps1g627ab, Gateshead Trinity Square
-5037930110030, Newcastle Upon Tyne
 5030917023002, Durham
 5030917016196, Durham
 5030917023002, Gateshead Metro Centre
