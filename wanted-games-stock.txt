@@ -11,7 +11,6 @@ sps1g1627b, Washington
 5030917023002, North Shields
 5030917023002, Washington
 5030917023002, Newcastle Upon Tyne
-5030917016196, Gateshead Trinity Square
 5030917016196, Gateshead Metro Centre
 3307210266620, Cramlington
 3307210266620, North Shields
