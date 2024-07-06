@@ -35,3 +35,5 @@ sps1g627ab, Gateshead Trinity Square
 5060138430655, Durham
 5030930054915, Newcastle Grainger St
 5030917036606, Cramlington
+5030917036606, Newcastle Grainger St
+5030917036606, Gateshead Metro Centre
