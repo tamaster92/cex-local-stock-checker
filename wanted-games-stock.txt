@@ -38,3 +38,4 @@ sps1g627ab, Gateshead Trinity Square
 5030917036606, Gateshead Metro Centre
 5060004769131, Gateshead Trinity Square
 5055060925904, Arnison Durham
+5030930052843, North Shields
