@@ -25,7 +25,6 @@ sps1g627ab, Gateshead Trinity Square
 3307210266620, Sunderland
 5055060927427, Washington
 5030917036606, South Shields
-5060004769131, Washington
 5060004769131, Sunderland
 5060138430655, Cramlington
 5060138430655, North Shields
