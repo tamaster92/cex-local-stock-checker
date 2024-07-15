@@ -1,5 +1,4 @@
 sps1g349ab #Resident Evil Directors Cut w/ man
-5030935111248 #Mass Effect Trilogy
 3391891965149 #TekkenTagTourn CE
 5026555408097 #Max Payne CE
 4974365610425B #Ecco (for boxes)
@@ -18,7 +17,6 @@ sps1g349ab #Resident Evil Directors Cut w/ man
 5060004768929 #WSC07
 3307210233042 #BlazingAngels
 5030930052843 #NFSCarbon
-5060004769131 #Sonic
 3307210251503 #EnchantedArms
 5030930052935 #NBAStreetHomecourt
 5060138430655 #VirtuaTennis3
