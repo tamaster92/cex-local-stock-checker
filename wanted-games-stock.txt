@@ -58,3 +58,4 @@ sps1g627ab, Gateshead Trinity Square
 4020628818050, Newcastle Upon Tyne
 4020628818050, Gateshead Trinity Square
 4020628818050, Gateshead Metro Centre
+5030930052843, Washington
