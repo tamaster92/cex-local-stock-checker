@@ -48,8 +48,6 @@ sps1g627ab, Gateshead Trinity Square
 885370197471, Arnison Durham
 5902385108461, North Shields
 5902385108461, South Shields
-5902385108461, Sunderland
-5902385108461, Gateshead Trinity Square
 5902385108461, Durham
 5902385108461, Arnison Durham
 889842528565, North Shields
