@@ -6,7 +6,6 @@ sps1g349ab #Resident Evil Directors Cut w/ man
 023272010683 #MonkeyIsland
 4005209166089 #DarkSiders2 CE
 3700577002717 #Splatterhouse
-5055277025923 #Persona4ArenaUltimax
 5030930102975 #ShadowsoftheDamned
 5055060925904 #Darkvoid
 5030930059781 #Godfather
@@ -20,10 +19,7 @@ sps1g349ab #Resident Evil Directors Cut w/ man
 5026555400077 #NHL2k7
 5030930054151 #TWPGAT07
 5060138431201 #VF5
-5030930054915 #DefJamIcon
 885370664126 #FableAnniversary
 885370197471 #Fable3
-5902385108461 #DyingLight2
 5055060966976 #Okami
 889842528565 #OriWill
-4020628818050 #Micromachinesworldseries
