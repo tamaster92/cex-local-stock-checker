@@ -60,3 +60,4 @@ sps1g627ab, Gateshead Trinity Square
 5060138430655, Newcastle Grainger St
 5902385108461, Newcastle Grainger St
 5060138431201, Sunderland
+023272010683, Gateshead Metro Centre
