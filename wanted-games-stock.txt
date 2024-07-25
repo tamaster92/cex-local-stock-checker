@@ -37,7 +37,6 @@ sps1g627ab, Gateshead Trinity Square
 5051600222885, Washington
 885370664126, Washington
 885370664126, Newcastle Grainger St
-885370664126, Gateshead Trinity Square
 885370197471, Cramlington
 885370197471, North Shields
 885370197471, Washington
