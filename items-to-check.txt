@@ -1,7 +1,6 @@
 sps1g349ab #Resident Evil Directors Cut w/ man
 3391891965149 #TekkenTagTourn CE
 5026555408097 #Max Payne CE
-4974365610425B #Ecco (for boxes)
 5055060927427 #AsurasWrath
 023272010683 #MonkeyIsland
 4005209166089 #DarkSiders2 CE
@@ -15,7 +14,6 @@ sps1g349ab #Resident Evil Directors Cut w/ man
 5030930052843 #NFSCarbon
 3307210251503 #EnchantedArms
 5030930052935 #NBAStreetHomecourt
-5060138430655 #VirtuaTennis3
 5026555400077 #NHL2k7
 5030930054151 #TWPGAT07
 5060138431201 #VF5
@@ -25,4 +23,3 @@ sps1g349ab #Resident Evil Directors Cut w/ man
 889842528565 #OriWill
 5030930102081 #Portal2
 3391891976442 #JoJo
-5055277010356 #DreamcastCollection
