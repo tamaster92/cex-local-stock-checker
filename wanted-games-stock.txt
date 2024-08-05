@@ -52,3 +52,6 @@ sps1g627ab, Gateshead Trinity Square
 5055277010356, Washington
 5055277010356, Sunderland
 5055277010356, Gateshead Trinity Square
+5030930052843, Trowbridge
+5030930054151, Trowbridge
+885370664126, Trowbridge
