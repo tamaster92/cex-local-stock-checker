@@ -5,7 +5,6 @@
 4974365615697b, Durham
 sps1g1627b, Washington
 4974365610616b, Arnison Durham
-3700577002717, Arnison Durham
 5030917023002, Cramlington
 5030917023002, North Shields
 5030917023002, Washington
@@ -31,10 +30,7 @@ sps1g627ab, Gateshead Trinity Square
 5030917036606, Cramlington
 5030917036606, Gateshead Metro Centre
 5060004769131, Gateshead Trinity Square
-5055060925904, Arnison Durham
 5051600222885, Washington
-885370664126, Washington
-885370664126, Newcastle Grainger St
 885370197471, Cramlington
 885370197471, North Shields
 885370197471, Washington
@@ -45,22 +41,14 @@ sps1g627ab, Gateshead Trinity Square
 5902385108461, North Shields
 5902385108461, South Shields
 5902385108461, Durham
-889842528565, North Shields
 4020628818050, Sunderland
 4020628818050, Newcastle Upon Tyne
 4020628818050, Gateshead Trinity Square
 4020628818050, Gateshead Metro Centre
-5060004768929, Newcastle Grainger St
 5902385108461, Sunderland
 5902385108461, Newcastle Grainger St
-5060138431201, Sunderland
-3700577002717, Gateshead Trinity Square
-5030930102081, Sunderland
-5030930102081, Newcastle Grainger St
-5030930102081, Gateshead Trinity Square
 3391891976442, Sunderland
 3391891976442, Newcastle Upon Tyne
 5055277010356, Washington
 5055277010356, Sunderland
 5055277010356, Gateshead Trinity Square
-5030930052843, Gateshead Trinity Square
