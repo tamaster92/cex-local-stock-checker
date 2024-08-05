@@ -28,10 +28,10 @@ jobs:
       - name: Check Stores
         shell: pwsh
         run: |
-          . '.\CEXLocalStoreCheck.ps1' -ItemsToCheckFilePath .\items-to-check.txt -Latitude "54.974758" -Longitude "-1.620000" -StoresToCheckFilePath .\stores-to-check.txt -PushoverToken ${{ secrets.PUSHOVER_TOKEN }} -PushoverUser ${{ secrets.PUSHOVER_USER }} 
+          . '.\CEXLocalStoreCheck.ps1' -ItemsToCheckFilePath .\items-to-check.txt -Latitude "51.456290" -Longitude "-2.116060" -StoresToCheckFilePath .\stores-to-check.txt -PushoverToken ${{ secrets.PUSHOVER_TOKEN }} -PushoverUser ${{ secrets.PUSHOVER_USER }} 
       - name: Commit stock change
         run: |
-          git config --global user.name 'liquidtoon01'
-          git config --global user.email 'liquidtoon01@users.noreply.github.com'
+          git config --global user.name 'tamaster92'
+          git config --global user.email 'tamaster92@users.noreply.github.com'
           git commit -am "Automated update"
           git push
