@@ -58,4 +58,3 @@ sps1g627ab, Gateshead Trinity Square
 3546430113424, Bristol
 5030933123427, Trowbridge
 5030930096823, Trowbridge
-711719472926, Bath
