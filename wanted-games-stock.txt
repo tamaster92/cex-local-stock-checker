@@ -60,4 +60,3 @@ sps1g627ab, Gateshead Trinity Square
 045496427429, Chippenham
 4012927084649, Bristol
 sps1g1539ab, Bristol
-sps1g1496ab, Bristol
