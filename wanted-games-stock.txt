@@ -63,3 +63,4 @@ sps1g627ab, Gateshead Trinity Square
 4005209072465, Bristol
 811949030740, Chippenham
 3546430025895, Bath
+sps1g1015ab, Bristol
