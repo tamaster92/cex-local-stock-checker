@@ -60,3 +60,4 @@ sps1g627ab, Gateshead Trinity Square
 5030933123427, Bristol
 sps1g111ab, Trowbridge
 ssegdreg152ab, Chippenham
+711719472926, Trowbridge
