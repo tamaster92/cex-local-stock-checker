@@ -59,3 +59,4 @@ sps1g627ab, Gateshead Trinity Square
 5030930096823, Trowbridge
 711719879541, Chippenham
 5021290040151, Bristol
+045496427429, Bath
