@@ -63,3 +63,4 @@ sps1g627ab, Gateshead Trinity Square
 5021290040151, Trowbridge
 5030935111248, Trowbridge
 5060327534041, Bristol
+023272010805, Trowbridge
