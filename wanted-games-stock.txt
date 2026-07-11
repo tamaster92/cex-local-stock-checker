@@ -64,3 +64,4 @@ sps1g627ab, Gateshead Trinity Square
 711719879541, Bristol
 sps1g111ab, Bristol
 711719238232, Chippenham
+5060102953500, Bath
